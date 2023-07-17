@@ -2,7 +2,7 @@
 
 - 🎓 Estou atualmente cursando Engenharia de Software na Universidade de Brasília (UnB).
 - 👨‍💻 Atualmente estou aprendendo sobre Inteligência Artificial.
-- ⚙️Estou a procura de projetos e oportunidades de aplicar e adquirir abilidades.
+- ⚙️ Estou a procura de projetos e oportunidades de aplicar e adquirir abilidades.
 - 💻 Possuo habilidades com as ferramentas: Python, HTML e CSS.
 - ☎️ Contatos:
   E-mail: williambernardo838@gmail.com

@@ -1,8 +1,8 @@
 # Olá! Sou o William ✋
 
-- 🎓 Estou atualmente cursando Engenharia de Software na Universidade de Brasília (UnB).
+- 🎓 Estou cursando Engenharia de Software na Universidade de Brasília (UnB).
 - 👨‍💻 Atualmente estou aprendendo sobre Inteligência Artificial.
-- ⚙️ Estou a procura de projetos e oportunidades de aplicar e adquirir abilidades.
+- ⚙️ Estou a procura de projetos e oportunidades de aplicar e adquirir habilidades.
 - 💻 Possuo habilidades com as ferramentas: Python, HTML e CSS.
 - ☎️ Contatos:
   E-mail: williambernardo838@gmail.com

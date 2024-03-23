@@ -1,7 +1,7 @@
 # Olá! Sou o William ✋
 
 - 🎓 Estou cursando Engenharia de Software na Universidade de Brasília (UnB).
-- 👨‍💻 Atualmente estou aprendendo sobre frameworks python.
+- 👨‍💻 Atualmente estou aprendendo sobre wordpress.
 - ⚙️ Estou a procura de projetos e oportunidades de aplicar e adquirir habilidades.
 - 💻 Possuo habilidades com as ferramentas: HTML, CSS, Java, Python, Django, tkinter.
 - ☎️ Contatos:

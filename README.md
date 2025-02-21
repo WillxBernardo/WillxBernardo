@@ -7,4 +7,4 @@
 - ☎️ Contatos:
   E-mail: williambernardo838@gmail.com
   Tel: (61) 9 9936-6646
-  Linkedin: www.linkedin.com/in/william-bernardo-a194b5197
+  Linkedin: https://www.linkedin.com/in/willxbernardo/
